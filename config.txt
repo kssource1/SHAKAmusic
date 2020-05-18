@@ -1,5 +1,5 @@
-token = token lera dabne
-owner = id xot
+token = Token Y Botaka Lera DaBne
+owner = 617046166219128943
 
 
 
@@ -7,7 +7,7 @@ prefix = "!"
 
 
 
-game = "shtek bnusa bo playing"
+game = "ShaͩKͤAͮ🇸🇦" 
 
 
 
@@ -83,11 +83,11 @@ aliases {
   forceremove = [ forcedelete, modremove, moddelete ]
   forceskip = [ modskip ]
   movetrack = [ move ]
-  pause = []
-  playnext = []
-  repeat = []
+  pause = [ Esra7at ]
+  playnext = [ Goranidwatr ]
+  repeat = [ rt ]
   skipto = [ jumpto ]
-  stop = []
+  stop = [ bewastena ]
   volume = [ vol ]
 }
 
